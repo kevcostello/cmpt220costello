@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* February 2, 2016, Lab 2 Question 3.11*/
-/* This program will state the number of days within a month */
+/**
+ * file: Days_In_Month.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 2, question 3.11
+ * due date: February 14, 2016
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 public class Days_In_Month{
   public static void main(String[] args){
