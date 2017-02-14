@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* February 4, 2017, Lab 2 Question 3.15*/
-/* This program will make a java lottery game */
+/**
+ * file: Java_Lottery.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 2, question 3.15
+ * due date: February 14, 2016
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 
 public class Java_Lottery {
