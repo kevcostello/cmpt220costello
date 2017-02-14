@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* February 7, 2016, Lab 2 Question 4.15*/
-/* This program will take a letter and display the telephone number that pairs with it */
+/**
+ * file: Telephone_Number.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 2, question 4.15
+ * due date: February 14, 2016
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 
 public class Telephone_Number{
