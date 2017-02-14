@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* January 29, 2016, Lab 1 Question 2.1*/
-/* This program will read a Celsius degree in a double value then convert it to Fahrenhiet and display the result*/
+/**
+ * file: Celsius_Converter.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 1, question 2.1
+ * due date: January 24, 2017
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 
 public class Celsius_Converter{
