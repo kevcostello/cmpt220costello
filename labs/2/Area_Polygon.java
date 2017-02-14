@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* February 7, 2016, Lab 2 Question 4.5*/
-/* This program will calculate the area of a polygon */
+/**
+ * file: Area_Polygon.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 2, question 4.5
+ * due date: February 14, 2016
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 
 public class Area_Polygon{
