@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* January 29, 2016, Lab 1 Question 2.6*/
-/* This program will read an integer between 0 and 1000 and add all digits in the integer*/
+/**
+ * file: Digit_Adder.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 1, question 2.6
+ * due date: January 24, 2017
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 
 public class Digit_Adder{
