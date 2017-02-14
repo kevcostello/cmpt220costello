@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* February 4, 2017, Lab 2 Question 3.8*/
-/* This program will allow the user to enter 3 integers and then display them in non-decreasing order*/
+/**
+ * file: Increasing_Integers.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 2, question 3.8
+ * due date: February 14, 2016
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 
 public class Increasing_Integers{
