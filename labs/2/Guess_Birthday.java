@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* February 7, 2016, Lab 2 Question 4.10*/
-/* This program will guess what day is your birthday */
+/**
+ * file: Guess_Birthday.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 2, question 4.10
+ * due date: February 14, 2016
+ * version: 1.0
+ */
+
 import java.util.Scanner;
 
 public class Guess_Birthday{
