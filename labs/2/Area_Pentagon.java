@@ -1,5 +1,5 @@
 /**
- * file: Area_Pentagon,java
+ * file: Area_Pentagon.java
  * author: Kevin Costello
  * course: CMPT 220
  * assignment: lab 2, question 4.1
