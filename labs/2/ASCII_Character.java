@@ -1,5 +1,5 @@
 /**
- * file: ASCII_Character,java
+ * file: ASCII_Character.java
  * author: Kevin Costello
  * course: CMPT 220
  * assignment: lab 2, question 4.8
