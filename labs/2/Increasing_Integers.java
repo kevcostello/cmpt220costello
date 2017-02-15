@@ -5,6 +5,8 @@
  * assignment: lab 2, question 3.8
  * due date: February 14, 2016
  * version: 1.0
+ *
+ * This program will order 3 integers entered by the user into ascending order.
  */
 
 import java.util.Scanner;
