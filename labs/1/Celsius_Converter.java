@@ -4,7 +4,9 @@
  * course: CMPT 220
  * assignment: lab 1, question 2.1
  * due date: January 24, 2017
- * version: 1.0
+ * version: 1
+ *
+ * This program will convert a degree in Celsius to its equivalent in Fahrenheit.
  */
 
 import java.util.Scanner;
