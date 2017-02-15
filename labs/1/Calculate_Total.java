@@ -5,6 +5,8 @@
  * assignment: lab 1, question 2.5
  * due date: January 24, 2017
  * version: 1.0
+ *
+ * This program will calculate the subtotal and gratuity on a dinner check to find the total
  */
 
 import java.util.Scanner;
