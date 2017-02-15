@@ -5,6 +5,8 @@
  * assignment: lab 1, question 2.6
  * due date: January 24, 2017
  * version: 1.0
+ *
+ * This program will add each digit in a 3 digit integer
  */
 
 import java.util.Scanner;
