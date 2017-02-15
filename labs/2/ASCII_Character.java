@@ -3,7 +3,7 @@
  * author: Kevin Costello
  * course: CMPT 220
  * assignment: lab 2, question 4.8
- * due date: February 14, 2016
+ * due date: February 7, 2016
  * version: 1.0
  *
  * This program will take an entered ASCII code and convert it to its corresponding symbol.
