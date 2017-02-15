@@ -3,10 +3,10 @@
  * author: Kevin Costello
  * course: CMPT 220
  * assignment: lab 2, question 3.11
- * due date: February 14, 2016
+ * due date: February 7, 2017
  * version: 1.0
  *
- * This program will find the number of days in a given month in the year of the users choosing
+ * This program will find the number of days in a given month in a year of the users choosing
  */
 
 import java.util.Scanner;
