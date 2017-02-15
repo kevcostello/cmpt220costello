@@ -5,6 +5,8 @@
  * assignment: lab 2, question 3.11
  * due date: February 14, 2016
  * version: 1.0
+ *
+ * This program will find the number of days in a given month in the year of the users choosing
  */
 
 import java.util.Scanner;
