@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* January 24, 2017, Lab 1 Question 2*/
-/* This program will calculate the percentage total grade of a student */
+/**
+ * file: Total_Grade.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 1, question 2
+ * due date: January, 2017
+ * version: 1.0
+ */
+
 
 import java.util.Scanner;
 public class Total_Grade  {
