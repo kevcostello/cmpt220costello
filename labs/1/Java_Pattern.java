@@ -5,6 +5,8 @@
  * assignment: lab 1, question 1.3
  * due date: January 24, 2017
  * version: 1.0
+ *
+ * This program will print out JAVA in text
  */
 
 public class Java_Pattern {
