@@ -1,6 +1,12 @@
-/* Kevin Costello, Professor Rivas, Software Dev 1 CMPT 220*/
-/* January 29, 2016, Lab 1 Question 1.3*/
-/* This program will print out a pattern of text that spells out JAVA*/
+/**
+ * file: Java_Pattern.java
+ * author: Kevin Costello
+ * course: CMPT 220
+ * assignment: lab 1, question 1.3
+ * due date: January 24, 2017
+ * version: 1.0
+ */
+
 public class Java_Pattern {
   public static void main(String[] args) {
 	  
