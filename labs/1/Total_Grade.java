@@ -3,8 +3,10 @@
  * author: Kevin Costello
  * course: CMPT 220
  * assignment: lab 1, question 2
- * due date: January, 2017
+ * due date: January 24, 2017
  * version: 1.0
+ *
+ * This program will take a users inputed grades and find the average of them for a total grade
  */
 
 
