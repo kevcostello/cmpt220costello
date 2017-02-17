@@ -16,12 +16,12 @@ public class Telephone_Number{
 	System.out.println("Please enter a letter (UpperCase): ");
 	
 	//Initializes letter as a char and then coverts the letter given to uppercase and takes the first letter given
-	char letter = Scanner.nextline().toUpperCase().charAt(0);
+	char letter = input.next().toUpperCase().charAt(0);
 	
 	int number = -1;
 	
 	//Sets the letters to a range between A and Z
-	if (letter >= 'A' && ch <= 'Z') {
+	if (letter >= 'A' && letter <= 'Z') {
 	 
 	 //Sets letters below D to 2 
 	  if (letter < 'D') {
@@ -45,7 +45,7 @@ public class Telephone_Number{
 		System.out.println (number + " is not a valid input");
 		System.exit(1);
 	}
-	System.out.println("The corresponding number is " + num);
+	System.out.println("The corresponding number is " + number);
 	
   }
 }
