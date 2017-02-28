@@ -28,10 +28,10 @@ public class Smallest_Number{
   
   //Method locates and returns the minimum value in an array
   public static double minimum(double[] array){
-	double minimum = array[0];
-	for (double i: array){
-		if ( i < minimum)
-		  minimum = i;
+    double minimum = array[0];
+      for (double i: array){
+        if ( i < minimum)
+	  minimum = i;
 	}
 	return minimum;
   }
