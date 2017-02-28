@@ -16,11 +16,11 @@ public class Driver_lab3  {
     
 	//Initializes x1 to equal next entry
     while (true)  {
-	double x1 = scan.nextDouble();
+      double x1 = scan.nextDouble();
 	
 	//Stops the program when 0 is entered
-	if (x1 == 0)
-		break;
+      if (x1 == 0)
+	break;
 	
 	double y1 = scan.nextDouble();
 	double x2 = scan.nextDouble();
