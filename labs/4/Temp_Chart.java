@@ -14,7 +14,7 @@ public class Temp_Chart{
 	
 	//Display the header of the table
     System.out.println("Celsius     Fahrenheit     | Fahrenheit    Celsius\n");
-	System.out.println("________________________________________________________________________");
+      System.out.println("________________________________________________________________________");
 	
 	//Calculate and display data for celsius
 	for (double celsius = 40.0, fahrenheit = 120.0; celsius >=31.0; celsius--, fahrenheit -=10){
@@ -27,7 +27,7 @@ public class Temp_Chart{
 
   //Convert from Celsius to Fahrenheit
   public static double celsiusToFahrenheit(double celsius){
-	return (9.0 / 5.0) * celsius + 32;
+    return (9.0 / 5.0) * celsius + 32;
   }
   
   //Convert from Fahrenheit to Celsius
