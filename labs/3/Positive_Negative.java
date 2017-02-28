@@ -13,29 +13,29 @@ import java.util.Scanner;
 
 public class Positive_Negative{
   public static void main (String[] args){
-	Scanner input = new Scanner(System.in);
+    Scanner input = new Scanner(System.in);
 	
 	// Initialize all of the integers
-	int count = 0;
-    int positive = 0;
-	int negative = 0;
-	double total = 0;
-	double average = 0;
+      int count = 0;
+      int positive = 0;
+      int negative = 0;
+      double total = 0;
+      double average = 0;
 	
 	System.out.print("Enter an integer, the input ends if it is 0: ");
 	int number = input.nextInt();
 	
 	// While loop continues until the number 0 appears
-	while (number != 0){
-	  total += number;
+        while (number != 0){
+          total += number;
 	  
 	  // Adds one to positive or negative if the number is above or below zero
 	  if (number > 0)
 	    positive += 1;
 	  else
-		negative += 1;
+	     negative += 1;
 	
-	  number = input.nextInt();
+          number = input.nextInt();
 	}
 	
 	// Calculates the average
