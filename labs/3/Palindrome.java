@@ -13,35 +13,35 @@ import java.util.Scanner;
 
 public class Palindrome  {
   public static void main(String[] args)  {
-	Scanner input = new Scanner(System.in);
+    Scanner input = new Scanner(System.in);
     
     System.out.print("Please enter an integer: ");
-	int palindromeNumber = input.nextInt();
+      int palindromeNumber = input.nextInt();
 	
 	//Out differs depending on wether or not the number is a palindrome
 	if (isPalindrome(palindromeNumber))
 	  System.out.println(palindromeNumber + " is a palindrome");
-    else
+        else
 	  System.out.println(palindromeNumber + " is not a palindrome");
     	
   }
   
   //Returns the reverse of the integer
   public static int reverse(int number)  {
-	int reversedNumber = 0;
+    int reversedNumber = 0;
 	
-	while (number != 0)  {
-	  reversedNumber *=10;
-	  reversedNumber +=(number % 10);
-	  number /=10;
-	}
+      while (number != 0)  {
+	reversedNumber *=10;
+	reversedNumber +=(number % 10);
+	number /=10;
+      }
 	
-	return reversedNumber;
+      return reversedNumber;
   }
   
   //Returns true if the number is a palindrome
   public static boolean isPalindrome(int number)  {
-	return (number == reverse(number));
+    return (number == reverse(number));
 	
   }
 }
