@@ -13,10 +13,10 @@ import java.util.Scanner;
 
 public class Tuition{
   public static void main(String[] args){
-	Scanner input = new Scanner(System.in);
+    Scanner input = new Scanner(System.in);
 	
-	// Initialize all variables
-	double tuitionPerYear = 10000;
+      // Initialize all variables
+        double tuitionPerYear = 10000;
 	double tuitionIncrease = .05;
 	double fourYearsTuition = 0;
 	
@@ -26,12 +26,12 @@ public class Tuition{
 	//Initializes int i and acts as the counter for number of outputs
 	for (int i = 0; i <= 14; i++){
 	  if (i <= 10){
-		System.out.printf( "%-7d %.2f \n", i, tuitionPerYear);
-        tuitionPerYear += (tuitionPerYear * tuitionIncrease);		
-	  }
+	    System.out.printf( "%-7d %.2f \n", i, tuitionPerYear);
+            tuitionPerYear += (tuitionPerYear * tuitionIncrease);		
+	}
 	  // Calculates four extra years of tuition but doesnt print them
 	  else {
-		fourYearsTuition += tuitionPerYear +(tuitionPerYear * tuitionIncrease);		
+	    fourYearsTuition += tuitionPerYear +(tuitionPerYear * tuitionIncrease);		
 	  }
 	}
 	
