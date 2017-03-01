@@ -15,9 +15,9 @@ public class SmallestN1{
     int n = 1;
 	
 	// Increases the value of n by 1 everytime its square is less than 12,000
-	while ((int) Math.pow(n,2) < 12000){
-	  ++n;
-	}
-	System.out.println("The smallest number squared greater than 12000 is: " + n);  
+      while ((int) Math.pow(n,2) < 12000){
+        ++n;
+      }
+    System.out.println("The smallest number squared greater than 12000 is: " + n);  
   }
 }
