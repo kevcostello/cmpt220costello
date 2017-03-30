@@ -5,8 +5,8 @@
  * assignment: Lab 5, 8.13
  * due date: March 28, 2017
  *
- * This program will use a method that takes two sorted 
- * lists and displays them in a merged, sorted list
+ * This program will use a method that returns the location of 
+ * the largest element in a two-dimensional array.
  */
  
 import java.util.Scanner;
