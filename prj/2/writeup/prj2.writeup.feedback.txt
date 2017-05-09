@@ -1,0 +1,10 @@
+38 pts
+
+Project keeps track of scores. The idea has good merit but not original. 
+
+However, there are some issues...
+Writeup:
+- It does not follow the structure required. Abstract, Introduction, etc. -1pt
+
+Overall:
+- Decent work below average of an SD1 student. -1pt
